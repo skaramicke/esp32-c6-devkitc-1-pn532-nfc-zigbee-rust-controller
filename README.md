@@ -1,0 +1,1 @@
+# esp32-c6-devkitc-1-pn532-nfc-zigbee-rust-controller
